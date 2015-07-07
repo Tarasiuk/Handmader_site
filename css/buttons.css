@@ -1,0 +1,49 @@
+.btn-success { 
+  color: #327e66; 
+  background-color: #95F9C7; 
+  border-color: #FFFFFF; 
+  font-weight: bold;
+  font-size: 1.25em;
+    margin: 10px 0 20px 0;
+} 
+ 
+.btn-success:hover, 
+.btn-success:focus, 
+.btn-success:active, 
+.btn-success.active, 
+.open .dropdown-toggle.btn-success { 
+  color: #fffff; 
+  background-color: #95F9C7; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-success:active, 
+.btn-success.active, 
+.open .dropdown-toggle.btn-success { 
+  background-image: none; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-success.disabled, 
+.btn-success[disabled], 
+fieldset[disabled] .btn-success, 
+.btn-success.disabled:hover, 
+.btn-success[disabled]:hover, 
+fieldset[disabled] .btn-success:hover, 
+.btn-success.disabled:focus, 
+.btn-success[disabled]:focus, 
+fieldset[disabled] .btn-success:focus, 
+.btn-success.disabled:active, 
+.btn-success[disabled]:active, 
+fieldset[disabled] .btn-success:active, 
+.btn-success.disabled.active, 
+.btn-success[disabled].active, 
+fieldset[disabled] .btn-success.active { 
+  background-color: #95F9C7; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-success .badge { 
+  color: #95F9C7; 
+  background-color: #327e66; 
+}

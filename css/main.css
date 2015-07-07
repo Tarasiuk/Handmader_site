@@ -1,5 +1,5 @@
 
-@font-face { font-family: Dragon; src: url('fonts/Dragon.otf'); } 
+@font-face { font-family: Dragon; src: url('/fonts/Dragon.otf'); } 
 .intro
 {
 /*    background-size: 80px ;*/
